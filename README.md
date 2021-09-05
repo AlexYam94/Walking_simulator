@@ -7,3 +7,6 @@ And gate prototype:
 
 Or gate prototype:  
 ![Andgate](https://media.giphy.com/media/BFBxecfDLhFbpZIR39/giphy.gif?cid=790b7611c6911f27ad601b3516f9dcb802995c2694762c55&rid=giphy.gif&ct=g)
+
+Not gate prototype:  
+![Andgate](https://media.giphy.com/media/z9RZrfWEwnxPfz07Fa/giphy.gif?cid=790b76110e98133320554bc5a77575b175c5b96c956671f5&rid=giphy.gif&ct=g)
