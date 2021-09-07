@@ -26,4 +26,4 @@ Nxor gate prototype:
 
 Putting together:  
 Unpolished D Latch (red = input, yellow = output)
-![D_Latch](https://user-images.githubusercontent.com/39879191/132373559-518a5d8d-9a1c-49ca-8982-1176c1cf30c8.png)
+![D_latch](https://user-images.githubusercontent.com/39879191/132374962-5c22ce95-df18-4d20-8f56-e864c3cb234c.png)
